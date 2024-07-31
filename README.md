@@ -12,9 +12,18 @@ The detailed infromation of the dataset can be found in following paper: https:/
 For this study we have performed augmentation to certain classes to handle class imbalance issuse.The augmentation techniques
 utilized in this study include horizontal flip,vertical flip, transpose and random rotation 90 degree. 
 
-The Augmented dataset used in this study is provided in `/Augmented_dataset` directory of this repository
+The Augmented dataset used in this study is provided in: 
 
-The splits of the dataset (Train,Val,Test) used in this study is provided as `train.csv` ,`val.csv` and `test.csv`
+The splits of the dataset (Train,Val,Test) used in this study is provided in `\Splits` directory. The files are 
+```
+---/training_images.csv---->contains the images names and class name in form of path of images used in training
+---/training_mask.csv---->contains the segmentation names and class name in form of path of corresponding masks used in training
+---/val_images.csv---->contains the images names and class name in form of path of images used in validation during training
+---/val_mask.csv---->contains the segmentation names and class name in form of path of corresponding masks used in validation during training
+---/test_images.csv---->contains the images names and class name in form of path of images used in evaluation
+---/test_mask.csv---->contains the segmentation names and class name in form of path of corresponding masks used in evaluation
+
+      
  
 
 
