@@ -154,7 +154,7 @@ callbacks = [
 ```
 #### Evaluation of Our Model in test_set
 In this section we have evaluated our trained proposed model on the test set of the dataset. The weights of the proposed model is provided in `/model` directory. This weights is used to produce the result mentioned in the paper.
-* Note: During evalutaion please dont run the cells of sections Training Configuration and Training model of the notebook
+* Note: During evalutaion please dont run the cell of "Training model" of the notebook
 #### Preview of Snnipet
 ``` python 
 from sklearn.metrics import precision_score, recall_score
