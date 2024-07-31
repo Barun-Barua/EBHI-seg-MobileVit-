@@ -33,13 +33,13 @@ The splits of the dataset (Train,Val,Test) used in this study is provided in `\S
 
 ## Implementation 
 
-The Implementation of the study is provided in the `/src` directory, in the form of .ipynb file. The notebook is divided into following section 
+The Implementation of the study is provided in the `/src` directory. The ```Mobilevit_dice.ipynb``` notebook is divided into following sections:
 
 ### Data loading pipeline
 
 The section provides the code for a custom data generator reponsible for loading and creating instance of training generator and validation generator.
 
-#### Snnipet
+#### Preview of code
 
 ```python
 class data_generator(tf.keras.utils.Sequence):
@@ -107,7 +107,7 @@ val_mask_paths=np.load("../EBHI-SEG/val_mask.npy",allow_pickle=False)#Replace wi
 ### Implementation of  MobileViT-Unet architecture 
 This section of the notebook provide the implementation of MobileViT-Unet architecture.
 
-#### Preview of Snnipet
+#### Preview of code
 
 ```python
 def Mb_UNet(input_shape, num_classes):
@@ -128,7 +128,7 @@ def Mb_UNet(input_shape, num_classes):
 ### Training Configuration and Training model
 This sections of the notebook provide the code of initializing the training parameters and training of the model.
 The implementation can be used when you need to train the model on the dataset on own set of hyperparameter.
-#### Preview of Snnipet
+#### Preview of code
 
 ```python
 # Parameter for training 
@@ -152,10 +152,10 @@ callbacks = [
     tf.keras.callbacks.EarlyStopping(monitor='val_loss',patience=5)
 ]
 ```
-#### Evaluation of Our Model in test_set
+### Evaluation of Our Model in test_set
 In this section we have evaluated our trained proposed model on the test set of the dataset. The weights of the proposed model is provided in `/model` directory. This weights is used to produce the result mentioned in the paper.
 * Note: During evalutaion please dont run the cell of "Training model" of the notebook
-#### Preview of Snnipet
+#### Preview of code
 ``` python 
 from sklearn.metrics import precision_score, recall_score
 
