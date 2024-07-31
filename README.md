@@ -12,7 +12,7 @@ The detailed infromation of the dataset can be found in following paper: https:/
 For this study we have performed augmentation to certain classes to handle class imbalance issuse.The augmentation techniques
 utilized in this study include horizontal flip,vertical flip, transpose and random rotation 90 degree. 
 
-The Augmented dataset used in this study is provided in: 
+The Augmented dataset used in this study can be downloaded from here:-https://drive.google.com/drive/folders/1fLg5A99-bVwSvjKfPgBacaZh6RinkAWq?usp=sharing 
 
 The splits of the dataset (Train,Val,Test) used in this study is provided in `\Splits` directory. The files are 
 ```
@@ -153,7 +153,9 @@ callbacks = [
 ]
 ```
 ### Evaluation of Our Model in test_set
-In this section we have evaluated our trained proposed model on the test set of the dataset. The weights of the proposed model is provided in `/model` directory. This weights is used to produce the result mentioned in the paper.
+In this section we have evaluated our trained proposed model on the test set of the dataset. 
+The weights of the proposed model can be downloaded from here:-https://drive.google.com/file/d/1BdQWXTszDGFZamRky7WYCyXUebRH70GM/view?usp=sharing
+This weights is used to produce the result mentioned in the paper.
 * Note: During evalutaion please dont run the cell of "Training model" of the notebook
 #### Preview of code
 ``` python 
