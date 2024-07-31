@@ -22,6 +22,7 @@ The splits of the dataset (Train,Val,Test) used in this study is provided in `\S
 ---/val_mask.csv---->contains the segmentation names and class name in form of path of corresponding masks used in validation during training
 ---/test_images.csv---->contains the images names and class name in form of path of images used in evaluation
 ---/test_mask.csv---->contains the segmentation names and class name in form of path of corresponding masks used in evaluation
+```
 
       
  
