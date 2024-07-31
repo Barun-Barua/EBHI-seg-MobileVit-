@@ -1,0 +1,300 @@
+,test_paths
+0,/Adenocarcinoma/label\GTxc2013489-1-400-006.png
+1,/Adenocarcinoma/label\GTXC2015344-2-400-002.png
+2,/Adenocarcinoma/label\GTxc2014144-5-400-002.png
+3,/Adenocarcinoma/label\GTxc2013965-1-400-007.png
+4,/Adenocarcinoma/label\GT2012329-1-400-017.png
+5,/Adenocarcinoma/label\GT2013084-1-400-005.png
+6,/Adenocarcinoma/label\GT2016906-1-400-003.png
+7,/Adenocarcinoma/label\GTxc2014144-5-400-001.png
+8,/Adenocarcinoma/label\GTxc2013451-1-400-001.png
+9,/Adenocarcinoma/label\GTxc2012481-3-400-001.png
+10,/Adenocarcinoma/label\GTxc2012902-1-400-005.png
+11,/Adenocarcinoma/label\GT2012223-4-400-004.png
+12,/Adenocarcinoma/label\GTxc2013512-2-400-018.png
+13,/Adenocarcinoma/label\GTxc2012902-1-400-011.png
+14,/Adenocarcinoma/label\GT2001849-1-400-001.png
+15,/Adenocarcinoma/label\GT2012329-1-400-014.png
+16,/Adenocarcinoma/label\GTXC2014153-3-400-006.png
+17,/Adenocarcinoma/label\GTXC2015349-2-400-006.png
+18,/Adenocarcinoma/label\GTxc2012888-1-400-007.png
+19,/Adenocarcinoma/label\GT2016885-1-400-002.png
+20,/Adenocarcinoma/label\GT2012118-1-400-008.png
+21,/Adenocarcinoma/label\GTxc2013496-1-400-012.png
+22,/Adenocarcinoma/label\GT2016841-2-400-004.png
+23,/Adenocarcinoma/label\GT2015978-1-400-001.png
+24,/Adenocarcinoma/label\GTxc2012481-3-400-002.png
+25,/Adenocarcinoma/label\GT2016841-3-400-005.png
+26,/Adenocarcinoma/label\GT2012329-1-400-006.png
+27,/Adenocarcinoma/label\GTxc2013496-2-400-009.png
+28,/Adenocarcinoma/label\GT2100011-2-400-002.png
+29,/Adenocarcinoma/label\GTXC2014065-1-400-003.png
+30,/Adenocarcinoma/label\GTxc2110176-3-400-001.png
+31,/Adenocarcinoma/label\GT2014665-2-400-001.png
+32,/Adenocarcinoma/label\GT2012118-1-400-009.png
+33,/Adenocarcinoma/label\GTxc2013496-1-400-004.png
+34,/Adenocarcinoma/label\GTxc2013980-1-400-008.png
+35,/Adenocarcinoma/label\GT2012353-1-400-002.png
+36,/Adenocarcinoma/label\GT2013109-1-400-001.png
+37,/Adenocarcinoma/label\GTXC2014131-1-400-006.png
+38,/Adenocarcinoma/label\GTxc2014065-2-400-006.png
+39,/Adenocarcinoma/label\GTxc2014065-2-400-001.png
+40,/Adenocarcinoma/label\GT2001838-1-400-002.png
+41,/Adenocarcinoma/label\GT2012336-1-400-008.png
+42,/Adenocarcinoma/label\GTDC2100277-1-400-002.png
+43,/Adenocarcinoma/label\GT2016848-1-400-003.png
+44,/Adenocarcinoma/label\GTxc2012996-1-400-009.png
+45,/Adenocarcinoma/label\GT2012324-1-400-005.png
+46,/Adenocarcinoma/label\GTXC2014131-1-400-007.png
+47,/Adenocarcinoma/label\GTxc2110176-3-400-003.png
+48,/Adenocarcinoma/label\GTxc2013496-1-400-005.png
+49,/Adenocarcinoma/label\GTxc2012822-1-400-004.png
+50,/Adenocarcinoma/label\GTxc2014065-2-400-007.png
+51,/Adenocarcinoma/label\GT2012336-1-400-003.png
+52,/Adenocarcinoma/label\GT2012329-1-400-011.png
+53,/Adenocarcinoma/label\GT2016867-1-400-001.png
+54,/Adenocarcinoma/label\GTxc2012943-1-400-004.png
+55,/Adenocarcinoma/label\GTXC2013391-1-400-009.png
+56,/Adenocarcinoma/label\GT2012468-1-400-003.png
+57,/Adenocarcinoma/label\GTxc2012902-1-400-004.png
+58,/Adenocarcinoma/label\GT2012165-1-400-003.png
+59,/Adenocarcinoma/label\GTXC2015401-1-400-002.png
+60,/Adenocarcinoma/label\GTxc2013010-1-400-004.png
+61,/Adenocarcinoma/label\GT2100009-1-400-001.png
+62,/Adenocarcinoma/label\GTXC2015426-1-400-006.png
+63,/Adenocarcinoma/label\GTxc2012962-1-400-012.png
+64,/Adenocarcinoma/label\GTXC2015422-1-400-009.png
+65,/Adenocarcinoma/label\GTXC2013391-1-400-005.png
+66,/Adenocarcinoma/label\GT2014822-1-400-004.png
+67,/Adenocarcinoma/label\GTxc2012990-1-400-007.png
+68,/Adenocarcinoma/label\GTxc2012468-1-400-001.png
+69,/Adenocarcinoma/label\GTxc2012996-1-400-006.png
+70,/Adenocarcinoma/label\GT2012324-1-400-011.png
+71,/Adenocarcinoma/label\GTXC2102280-1-400-005.png
+72,/Adenocarcinoma/label\GTxc2014144-3-400-006.png
+73,/Adenocarcinoma/label\GT2015023-1-400-001.png
+74,/Adenocarcinoma/label\GT2014789-2-400-004.png
+75,/Adenocarcinoma/label\GT2012329-1-400-013.png
+76,/Adenocarcinoma/label\GTxc2014065-2-400-004.png
+77,/Adenocarcinoma/label\GT2100120-3-400-006.png
+78,/Adenocarcinoma/label\GTXC2015344-2-400-001.png
+79,/Adenocarcinoma/label\GT2001838-1-400-003.png
+80,/High-grade IN/label\aug1_GT2016887-2-400-002.png
+81,/High-grade IN/label\GT2018006-1-400-002.png
+82,/High-grade IN/label\GT2016846-3-400-002.png
+83,/High-grade IN/label\GT2016846-3-400-001.png
+84,/High-grade IN/label\GT2012436-1-400-005.png
+85,/High-grade IN/label\GTDC2013013-3-400-001.png
+86,/High-grade IN/label\aug1_GT2013111-2-400-001.png
+87,/High-grade IN/label\GT2013111-2-400-001.png
+88,/High-grade IN/label\aug1_GT2014699-1-400-002.png
+89,/High-grade IN/label\GTXC2015371-1-400-001.png
+90,/High-grade IN/label\aug1_GTXC2015362-9-400-002.png
+91,/High-grade IN/label\aug1_GTxc2012996-4-400-003.png
+92,/High-grade IN/label\aug1_GT2012275-4-400-002.png
+93,/High-grade IN/label\GT2012196-2-400-003.png
+94,/High-grade IN/label\aug1_GTXC2110187-1-400-006.png
+95,/High-grade IN/label\aug1_GTXC2110585-1-400-006.png
+96,/High-grade IN/label\aug1_GT2012508-1-400-001.png
+97,/High-grade IN/label\GT2017995-1-400-002.png
+98,/High-grade IN/label\aug1_GT2018006-1-400-001.png
+99,/High-grade IN/label\GT2016887-1-400-002.png
+100,/High-grade IN/label\GT2016887-2-400-002.png
+101,/High-grade IN/label\GTxc2012508-1-400-003.png
+102,/High-grade IN/label\GTXC2015362-9-400-004.png
+103,/High-grade IN/label\aug1_GT2014662-1-400-002.png
+104,/High-grade IN/label\aug1_GTxc2012829-2-400-003.png
+105,/High-grade IN/label\GT2100093-4-400-003.png
+106,/High-grade IN/label\GT2018006-1-400-001.png
+107,/High-grade IN/label\aug1_GTXC2110540-1-400-002.png
+108,/High-grade IN/label\aug1_GTXC2014151-1-400-001.png
+109,/High-grade IN/label\GTDC2100256-3-400-002.png
+110,/High-grade IN/label\aug1_GTXC2012151-1-400-003.png
+111,/High-grade IN/label\GT2012275-4-400-005.png
+112,/High-grade IN/label\GTXC2110128-2-400-003.png
+113,/High-grade IN/label\GTXC2110128-2-400-005.png
+114,/High-grade IN/label\aug1_GTxc2013501-3-400-006.png
+115,/High-grade IN/label\GTXC2012436-1-400-001.png
+116,/High-grade IN/label\aug1_GT2012508-1-400-003.png
+117,/High-grade IN/label\aug1_GT2012149-3-400-008.png
+118,/Low-grade IN/label\GTXC2015425-1-400-005.png
+119,/Low-grade IN/label\GTxc2012827-1-400-004.png
+120,/Low-grade IN/label\GTXC2100708-1-400-005.png
+121,/Low-grade IN/label\GTXC2015417-1-400-002.png
+122,/Low-grade IN/label\GTxc2012468-2-400-002.png
+123,/Low-grade IN/label\GTXC2100708-1-400-002.png
+124,/Low-grade IN/label\GTxc2012967-1-400-002.png
+125,/Low-grade IN/label\GTXC2014192-2-400-009.png
+126,/Low-grade IN/label\GTXC2014146-1-400-001.png
+127,/Low-grade IN/label\GTxc2013400-2-400-005.png
+128,/Low-grade IN/label\GT2016811-2-400-003.png
+129,/Low-grade IN/label\GTXC2015362-3-400-002.png
+130,/Low-grade IN/label\GTxc2014094-2-400-001.png
+131,/Low-grade IN/label\GTXC2015343-1-400-005.png
+132,/Low-grade IN/label\GTXC2012096-2-400-007.png
+133,/Low-grade IN/label\GTxc2014102-1-400-005.png
+134,/Low-grade IN/label\GT2016846-2-400-002.png
+135,/Low-grade IN/label\GT2012195-1-400-001.png
+136,/Low-grade IN/label\GTxc2013005-1-400-001.png
+137,/Low-grade IN/label\GT2016795-1-400-002.png
+138,/Low-grade IN/label\GTXC2110195-1-400-004.png
+139,/Low-grade IN/label\GTXC2012096-2-400-008.png
+140,/Low-grade IN/label\GTXC2015417-1-400-003.png
+141,/Low-grade IN/label\GTxc2014094-2-400-002.png
+142,/Low-grade IN/label\GTxc2110131-1-400-003.png
+143,/Low-grade IN/label\GTxc2014093-1-400-001.png
+144,/Low-grade IN/label\GT2012212-1-400-003.png
+145,/Low-grade IN/label\GT2013112-2-400-001.png
+146,/Low-grade IN/label\GT2001814-2-400-001.png
+147,/Low-grade IN/label\GTxc2110176-2-400-002.png
+148,/Low-grade IN/label\GT2012467-1-400-006.png
+149,/Low-grade IN/label\GTXC2015362-6-400-002.png
+150,/Low-grade IN/label\GTxc2012829-1-400-007.png
+151,/Low-grade IN/label\GT2014804-1-400-001.png
+152,/Low-grade IN/label\GT2016846-1-400-001.png
+153,/Low-grade IN/label\GT2012154-1-400-007.png
+154,/Low-grade IN/label\GT2014736-1-400-003.png
+155,/Low-grade IN/label\GTXC2015383-4-400-002.png
+156,/Low-grade IN/label\GTXC2015407-1-400-006.png
+157,/Low-grade IN/label\GT2012467-1-400-002.png
+158,/Low-grade IN/label\GTXC2012114-2-400-001.png
+159,/Low-grade IN/label\GT2012467-1-400-004.png
+160,/Low-grade IN/label\GTXC2014194-2-400-001.png
+161,/Low-grade IN/label\GTxc2013495-1-400-003.png
+162,/Low-grade IN/label\GTXC2015383-1-400-001.png
+163,/Low-grade IN/label\GTXC2014136-1-400-004.png
+164,/Low-grade IN/label\GTxc2012904-1-400-001.png
+165,/Low-grade IN/label\GTxc2014080-1-400-008.png
+166,/Low-grade IN/label\GTXC2014194-1-400-001.png
+167,/Low-grade IN/label\GTxc2013400-2-400-001.png
+168,/Low-grade IN/label\GTxc2012852-2-400-004.png
+169,/Low-grade IN/label\GTXC2014144-2-400-004.png
+170,/Low-grade IN/label\GTXC2014146-2-400-003.png
+171,/Low-grade IN/label\GT2001803-1-400-002.png
+172,/Low-grade IN/label\GT2012149-2-400-005.png
+173,/Low-grade IN/label\GTxc2013400-1-400-003.png
+174,/Low-grade IN/label\GTXC2015362-4-400-002.png
+175,/Low-grade IN/label\GTxc2014136-1-400-001.png
+176,/Low-grade IN/label\GTxc2014093-1-400-004.png
+177,/Low-grade IN/label\GTxc2110131-1-400-004.png
+178,/Low-grade IN/label\GTxc2012529-1-400-001.png
+179,/Low-grade IN/label\GTXC2012096-3-400-001.png
+180,/Low-grade IN/label\GTXC2014192-1-400-002.png
+181,/Low-grade IN/label\GTxc2013393-1-400-009.png
+182,/Normal/label\aug1_GT2100144-1-400-005.png
+183,/Normal/label\GT2100093-4-400-003.png
+184,/Normal/label\aug1_GT2100256-7-400-003.png
+185,/Normal/label\aug4_GT2012915-1-400-006.png
+186,/Normal/label\aug3_GT2000000-1-400-007.png
+187,/Normal/label\aug4_GTDC2100796-1-400-002.png
+188,/Normal/label\aug3_GT2012915-1-400-004.png
+189,/Normal/label\aug2_GT2100275-1-400-001.png
+190,/Normal/label\GT2100093-1-400-002.png
+191,/Normal/label\aug3_GT2100256-9-400-002.png
+192,/Normal/label\GT2100275-1-400-003.png
+193,/Normal/label\aug1_GT2017148-2-400-004.png
+194,/Normal/label\aug3_GTxc2012827-1-400-001.png
+195,/Normal/label\aug2_GT2013119-1-400-001.png
+196,/Normal/label\aug3_GT2000000-1-400-005.png
+197,/Normal/label\aug3_GT2100144-1-400-005.png
+198,/Normal/label\GTDC2100796-1-400-001.png
+199,/Normal/label\GT2017148-2-400-004.png
+200,/Normal/label\aug1_GTXC2012096-4-400-002.png
+201,/Normal/label\aug4_GTDC2100796-1-400-001.png
+202,/Normal/label\aug4_GT2100093-4-400-002.png
+203,/Normal/label\aug4_GT2000000-1-400-007.png
+204,/Normal/label\aug1_GTDC2100796-1-400-003.png
+205,/Normal/label\aug3_GT2100256-8-400-001.png
+206,/Normal/label\GT2000000-1-400-004.png
+207,/Normal/label\aug3_GT2000000-1-400-004.png
+208,/Normal/label\aug1_GT2100275-1-400-004.png
+209,/Normal/label\aug4_GTXC2012096-4-400-003.png
+210,/Normal/label\aug3_GT2012915-1-400-003.png
+211,/Normal/label\GT2017148-2-400-003.png
+212,/Normal/label\aug3_GTXC2012096-4-400-002.png
+213,/Normal/label\aug4_GT2100256-8-400-003.png
+214,/Normal/label\aug4_GT2013112-3-400-001.png
+215,/Normal/label\aug4_GT2100256-7-400-003.png
+216,/Normal/label\aug2_GT2013128-3-400-001.png
+217,/Normal/label\aug2_GT2100256-9-400-001.png
+218,/Normal/label\aug1_GT2100144-1-400-001.png
+219,/Normal/label\GTxc2012827-1-400-002.png
+220,/Normal/label\GT2012915-1-400-002.png
+221,/Polyp/label\GTxc2013953-3-400-002.png
+222,/Polyp/label\GTxc2102521-3-400-005.png
+223,/Polyp/label\GT2016798-1-400-001.png
+224,/Polyp/label\GT2012173-1-400-006.png
+225,/Polyp/label\GTxc2012789-1-400-003.png
+226,/Polyp/label\GTXC2110529-3-400-002.png
+227,/Polyp/label\GT2106134-1-400-001.png
+228,/Polyp/label\GTXC2015381-1-400-003.png
+229,/Polyp/label\GTXC2110531-1-400-005.png
+230,/Polyp/label\GTxc2110172-1-400-002.png
+231,/Polyp/label\GT2015104-1-400-001.png
+232,/Polyp/label\GT2013097-1-400-001.png
+233,/Polyp/label\GTXC2100798-1-400-008.png
+234,/Polyp/label\GT2012286-3-400-004.png
+235,/Polyp/label\GT2100117-2-400-001.png
+236,/Polyp/label\GTXC2015335-4-400-002.png
+237,/Polyp/label\GTXC2100772-1-400-001.png
+238,/Polyp/label\GT2106134-1-400-002.png
+239,/Polyp/label\GTXC2110181-1-400-006.png
+240,/Polyp/label\GTxc2014123-1-400-003.png
+241,/Polyp/label\GT2014783-2-400-001.png
+242,/Polyp/label\GTXC2110491-1-400-007.png
+243,/Polyp/label\GT2014077-1-400-001.png
+244,/Polyp/label\GT2012217-1-400-002.png
+245,/Polyp/label\GTXC2110530-1-400-006.png
+246,/Polyp/label\GTXC2110531-1-400-001.png
+247,/Polyp/label\GT2012426-2-400-005.png
+248,/Polyp/label\GT2012237-1-400-006.png
+249,/Polyp/label\GTxc2013509-1-400-003.png
+250,/Polyp/label\GTXC2015349-1-400-003.png
+251,/Polyp/label\GTXC2100714-1-400-002.png
+252,/Polyp/label\GTXC2110529-3-400-005.png
+253,/Polyp/label\GTXC2110572-1-400-003.png
+254,/Polyp/label\GT2014783-1-400-001.png
+255,/Polyp/label\GT2014751-3-400-001.png
+256,/Polyp/label\GTXC2100763-1-400-002.png
+257,/Polyp/label\GTXC2015335-4-400-001.png
+258,/Polyp/label\GTXC2110529-2-400-002.png
+259,/Polyp/label\GTXC2110215-1-400-002.png
+260,/Polyp/label\GT2016852-1-400-002.png
+261,/Polyp/label\GTxc2014134-1-400-001.png
+262,/Polyp/label\GTXC2100763-1-400-008.png
+263,/Polyp/label\GTxc2013996-1-400-001.png
+264,/Polyp/label\GTxc2013509-1-400-001.png
+265,/Polyp/label\GTxc2102521-3-400-006.png
+266,/Polyp/label\GTXC2110530-1-400-003.png
+267,/Polyp/label\GTXC2100763-1-400-006.png
+268,/Polyp/label\GT2014822-3-400-001.png
+269,/Serrated adenoma/label\GTDC2102188-2-400-005.png
+270,/Serrated adenoma/label\aug1_GTXC2014129-3-400-004.png
+271,/Serrated adenoma/label\aug4_GTXC2015335-3-400-002.png
+272,/Serrated adenoma/label\aug4_GTXC2100732-1-400-002.png
+273,/Serrated adenoma/label\GTXC2014151-2-400-001.png
+274,/Serrated adenoma/label\GTDC2102188-3-400-003.png
+275,/Serrated adenoma/label\aug2_GTXC2014129-4-400-004.png
+276,/Serrated adenoma/label\aug3_GTxc2014069-2-400-001.png
+277,/Serrated adenoma/label\aug2_GTXC2014129-3-400-005.png
+278,/Serrated adenoma/label\aug1_GTxc2014069-2-400-003.png
+279,/Serrated adenoma/label\aug3_GTXC2014151-2-400-004.png
+280,/Serrated adenoma/label\aug2_GTXC2014129-4-400-005.png
+281,/Serrated adenoma/label\aug4_GT2100092-2-400-001.png
+282,/Serrated adenoma/label\aug1_GT2016855-1-400-002.png
+283,/Serrated adenoma/label\aug1_GTxc2012521-2-400-003.png
+284,/Serrated adenoma/label\aug1_GTxc2014069-2-400-001.png
+285,/Serrated adenoma/label\aug2_GT1815555-4-400-001.png
+286,/Serrated adenoma/label\aug4_GTXC2014129-4-400-003.png
+287,/Serrated adenoma/label\aug3_GT2013145-1-400-001.png
+288,/Serrated adenoma/label\aug1_GT2100092-2-400-001.png
+289,/Serrated adenoma/label\aug4_GTXC2015335-3-400-003.png
+290,/Serrated adenoma/label\GTXC2015335-3-400-004.png
+291,/Serrated adenoma/label\aug2_GTXC2014129-4-400-003.png
+292,/Serrated adenoma/label\aug1_GT2013145-1-400-001.png
+293,/Serrated adenoma/label\aug1_GTXC2014129-4-400-005.png
+294,/Serrated adenoma/label\aug1_GTDC2102188-2-400-003.png
+295,/Serrated adenoma/label\aug2_GT2016855-1-400-002.png
+296,/Serrated adenoma/label\aug1_GT2014783-1-400-003.png
+297,/Serrated adenoma/label\GTxc2014069-2-400-003.png
+298,/Serrated adenoma/label\aug2_GTXC2100732-1-400-007.png
