@@ -1,7 +1,29 @@
 
 # Optimizing Colorectal Cancer Segmentation with MobileViT-UNet and Multi-Criteria Decision Analysis
 ![Alt text](etc/Figure2.png)
-Colorectal cancer represents a significant health challenge as one of the deadliest forms of malignancy. Manual examination methods suffer from limitations such as subjectivity and data overload, necessitating the development of computer-aided diagnostic systems. This study investigates the segmentation of colorectal cancer regions into normal tissue, polyps, high-grade intraepithelial neoplasia, low-grade intraepithelial neoplasia, adenocarcinoma, and serrated adenoma, using proposed segmentation models:\textbf{ VGG16-UNet, ResNet50-UNet, MobileNetV1-UNet, and MobileViT-UNet.} This is the first study to integrate MobileViT as a UNet encoder. Each model was trained with two distinct loss functions, binary cross-entropy and dice loss, and evaluated using metrics including Dice Ratio, Jaccard Index, Precision, and Recall. The MobileViT-UNet+Dice loss emerged as the leading model in colorectal histopathology segmentation, consistently achieving high scores across all evaluation metrics. Specifically, it achieved a Dice Ratio in the range of \textbf{0.9243-0.9694}, a Jaccard Index in the range of \textbf{0.8598-0.9406}, Precision in the range of \textbf{0.9490-0.9860}, and Recall in the range of \textbf{0.9011-0.9492} across all classes. To further obtain the best performing model, we employed Multi-Criteria Decision Analysis (MCDA) using the Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS). This analysis revealed that the MobileViT-UNet+Dice model achieved the highest TOPSIS scores of \textbf{0.9628} (avg) across all classes, thereby attaining the highest ranking among all models. Our comparative analysis includes benchmarking with existing works, the results highlight that our best-performing model (MobileViT-UNet+Dice) significantly outperforms existing models, showcasing its potential to enhance the accuracy and efficiency of colorectal cancer segmentation.
+Colorectal cancer represents a significant health challenge as one of the deadliest
+forms of malignancy.Manual examination methods are subjective, leading to inconsistent
+interpretations among different examiners and compromising reliability. Additionally,
+the process is time-consuming and labor-intensive, necessitating the development
+of computer-aided diagnostic systems. This study investigates the segmentation of
+colorectal cancer regions of Normal tissue, Polyps, High-grade intraepithelial neoplasia,
+Low-grade intraepithelial neoplasia, Adenocarcinoma, and Serrated adenoma, using
+proposed segmentation models: VGG16-UNet, ResNet50-UNet, MobileNet-UNet,
+and MobileViT-UNet. This is the first study to integrate MobileViT as a UNet encoder.
+Each model was trained with two distinct loss functions, binary cross-entropy and dice
+loss, and evaluated using metrics including Dice Ratio, Jaccard Index, Precision, and
+Recall. The MobileViT-UNet+Dice loss emerged as the leading model in colorectal
+histopathology segmentation, consistently achieving high scores across all evaluation
+metrics. Specifically, it achieved a Dice Ratio of 0.944 ± 0.030 and a Jaccard Index
+of 0.897 ± 0.049, with Precision at 0.955 ± 0.046 and Recall at 0.939 ± 0.038 across
+all classes. To further obtain the best performing model, we employed Multi-Criteria
+Decision Analysis (MCDA) using the Technique for Order of Preference by Similarity to
+Ideal Solution (TOPSIS). This analysis revealed that the MobileViT-UNet+Dice model
+achieved the highest TOPSIS scores of 1, thereby attaining the highest ranking among
+all models. Our comparative analysis includes benchmarking with existing works, the
+results highlight that our best-performing model (MobileViT-UNet+Dice) significantly
+outperforms existing models, showcasing its potential to enhance the accuracy and
+efficiency of colorectal cancer segmentation.
 ![Alt text](etc/Figure6.png)
 This repository provides the implementation of MobileViT-UNet+DICE
 ## Dataset
