@@ -244,6 +244,19 @@ Following packages will require to run this notebook
     link->https://github.com/leondgarse/keras_cv_attention_models
     usage->base model architecture and pretrained weights
 ```
+## Publication 
+
+Please cite the following paper if any part of repository is used 
+
+@article{barua2024optimizing,
+  title={Optimizing colorectal cancer segmentation with MobileViT-UNet and multi-criteria decision analysis},
+  author={Barua, Barun and Chyrmang, Genevieve and Bora, Kangkana and Saikia, Manob Jyoti},
+  journal={PeerJ Computer Science},
+  volume={10},
+  pages={e2633},
+  year={2024},
+  publisher={PeerJ Inc.}
+}
 
 ## Authors
 
